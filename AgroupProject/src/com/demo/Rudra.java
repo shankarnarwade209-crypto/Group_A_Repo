@@ -13,7 +13,7 @@ public class Rudra {
 				max = arr[i];
 			}
 		}
-		
+//		Max element print
 			System.out.println("The max element from array is :" + max);
 	}
 
